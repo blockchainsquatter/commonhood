@@ -61,19 +61,19 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Landing template for <span className="text-color-primary">startups</span>
+              <span className="text-color-primary">CommonHood</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
+                The first NFT with a royalty distribution for the little guys!
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Get started
+                  <Button tag="a" color="primary" wideMobile href="https://twitter.com/CommonHoodNFT">
+                    Twitter
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    View on Github
+                    Discord
                     </Button>
                 </ButtonGroup>
               </div>
@@ -88,10 +88,10 @@ const Hero = ({
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
+                src={require('./../../assets/images/robin_gif.gif')}
                 alt="Hero"
-                width={896}
-                height={504} />
+                width={500}
+                height={400} />
             </a>
           </div>
           <Modal
