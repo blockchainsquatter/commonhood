@@ -72,7 +72,7 @@ const Hero = ({
                   <Button tag="a" color="primary" wideMobile href="https://twitter.com/CommonHoodNFT">
                     Twitter
                     </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
+                  <Button tag="a" color="dark" wideMobile href="https://discord.gg/DHtnUmJdpc">
                     Discord
                     </Button>
                 </ButtonGroup>

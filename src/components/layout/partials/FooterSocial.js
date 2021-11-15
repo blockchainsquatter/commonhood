@@ -31,7 +31,7 @@ const FooterSocial = ({
           </a>
         </li>
         <li>
-          <a href="https://google.com/">
+          <a href="https://discord.gg/DHtnUmJdpc">
             <svg
               width="16"
               height="16"
